@@ -2,7 +2,7 @@
 # Feel free to add content and custom Front Matter to this file.
 # To modify the layout, see https://jekyllrb.com/docs/themes/#overriding-theme-defaults
 
-layout: home
+layout: default
 ---
 <h1>AICodeBot: Your AI-Powered Coding Companion</H1>
 <p>An AI-driven pair programmer that’s there for you 24/7. AICodeBot is the future of coding, making it faster, more intuitive, and fun. Don’t just take our word for it; experiment with AICodeBot to witness the difference.</p>
