@@ -5,7 +5,7 @@
 layout: default
 ---
 <h1>AICodeBot: Your AI-Powered Coding Companion</H1>
-<p>An AI-driven pair programmer that’s there for you 24/7. AICodeBot is the future of coding, making it faster, more intuitive, and fun. Don’t just take our word for it; experiment with AICodeBot to witness the difference.</p>
+<p>An AI-driven pair programmer that’s there for you 24/7. AICodeBot is the future of coding, making it faster, more intuitive, and fun. Don’t just take our word for it; experiment with AICodeBot to witness the difference. Find out more <a href="/about"> about AICodeBot</a>.</p>
 <p><em>It's always free for public repos.</em></p>
 
 <div align="center">
@@ -26,4 +26,6 @@ layout: default
 </p>
 
 <h1>Collaborate and Contribute</h1>
-<p>The brilliance of AICodeBot flourishes through the collaboration of ingenious minds like yours. We welcome developers passionate about revolutionizing coding experiences. Leave your mark by contributing to our open-source GitHub project. </p><p>Join us in the quest to build the ultimate AI team member!</p>
+<p>The brilliance of AICodeBot flourishes through the collaboration of ingenious minds like yours. We welcome developers passionate about revolutionizing coding experiences. Leave your mark by contributing to our open-source GitHub project. </p>
+<p><a href="https://github.com/gorillamania/AICodeBot" target="_blank">Join us</a> in the quest to build the ultimate AI team member!</p>
+
