@@ -8,6 +8,10 @@ layout: default
 <p>An AI-driven pair programmer that’s there for you 24/7. AICodeBot is the future of coding, making it faster, more intuitive, and fun. Don’t just take our word for it; experiment with AICodeBot to witness the difference.</p>
 <p><em>It's always free for public repos.</em></p>
 
+<div align="center">
+    <img src="images/alignment.gif" alt="alignment command example" style="max-width:100%; height:auto;">
+</div>
+
 <p>
 <li><strong>AI-Powered Pair Programmer</strong>: Collaborate with a helpful AI sidekick to achieve an enhanced coding experience.</li>
 
