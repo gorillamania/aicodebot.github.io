@@ -5,7 +5,7 @@
 layout: default
 ---
 <h1>AICodeBot: Your AI-Powered Coding Companion</H1>
-<p>An AI-driven pair programmer that’s there for you 24/7. AICodeBot is the future of coding, making it faster, more intuitive, and fun. Don’t just take our word for it; experiment with AICodeBot to witness the difference. Find out more <a href="/about"> about AICodeBot</a>.</p>
+<p>An AI-driven pair programmer that’s there for you 24/7. AICodeBot is the future of coding, making it faster, more intuitive, and fun. Don’t just take our word for it; experiment with AICodeBot to witness the difference. Find out more <a href="https://novara-ai.github.io/aicodebot.github.io/about/"> about AICodeBot</a>.</p>
 <p><em>It's always free for public repos.</em></p>
 
 <div align="center">
