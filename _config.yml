@@ -27,7 +27,7 @@ baseurl: "/aicodebot.github.io"
 url: "" # the base hostname & protocol for your site, e.g. http://example.com
 # twitter_username: jekyllrb
 github_username: gorillamania&#47;AICodeBot
-show_downloads: true
+show_nav_buttons: true
 github:
   repository_url: https://github.com/gorillamania/AICodeBot/
   docs: https://github.com/gorillamania/AICodeBot/tree/main/docs
