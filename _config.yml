@@ -32,6 +32,7 @@ github:
   docs: https://github.com/gorillamania/AICodeBot/tree/main/docs
   examples: https://novara-ai.github.io/aicodebot.github.io/examples
   blog: https://novara-ai.github.io/aicodebot.github.io/posts
+show_downloads: true 
 
 
 # Build settings
