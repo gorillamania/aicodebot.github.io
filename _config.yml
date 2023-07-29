@@ -29,9 +29,9 @@ url: "" # the base hostname & protocol for your site, e.g. http://example.com
 github_username: gorillamania&#47;AICodeBot
 github:
   repository_url: https://github.com/gorillamania/AICodeBot/
-  docs_url: https://github.com/gorillamania/AICodeBot/tree/main/docs
-  examples_url: https://novara-ai.github.io/aicodebot.github.io/examples
-  blog_url: https://novara-ai.github.io/aicodebot.github.io/posts
+  docs: https://github.com/gorillamania/AICodeBot/tree/main/docs
+  examples: https://novara-ai.github.io/aicodebot.github.io/examples
+  blog: https://novara-ai.github.io/aicodebot.github.io/posts
 
 
 # Build settings
