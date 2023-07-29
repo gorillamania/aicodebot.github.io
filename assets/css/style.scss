@@ -3,6 +3,8 @@
 
 @import "{{ site.theme }}";
 .site-logo {
-  max-width: 100%;
+  max-width: 170px;
+  max-height: 170px;
+  width: auto;
   height: auto;
 }
