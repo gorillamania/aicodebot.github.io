@@ -1,6 +1,7 @@
 ---
-
-title: Testing Markdown
+# Feel free to add content and custom Front Matter to this file.
+# To modify the layout, see https://jekyllrb.com/docs/themes/#overriding-theme-defaults
+title: AICodeBot
 layout: default
 ---
 # AICodeBot: Your AI-Powered Coding Companion
@@ -26,3 +27,4 @@ _It's always free for public repos_
 The brilliance of AICodeBot flourishes through the collaboration of ingenious minds like yours. We welcome developers passionate about revolutionizing coding experiences. Leave your mark by contributing to our open-source GitHub project.
 
 <a href="https://github.com/gorillamania/AICodeBot" target="_blank">Join us</a> in the quest to build the ultimate AI team member!
+
