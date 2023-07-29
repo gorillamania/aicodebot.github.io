@@ -27,6 +27,12 @@ baseurl: "/aicodebot.github.io"
 url: "" # the base hostname & protocol for your site, e.g. http://example.com
 # twitter_username: jekyllrb
 github_username: gorillamania&#47;AICodeBot
+github:
+  repository_url: https://github.com/gorillamania/AICodeBot/
+  docs_url: https://github.com/gorillamania/AICodeBot/tree/main/docs
+  examples_url: https://novara-ai.github.io/aicodebot.github.io/examples
+  blog_url: https://novara-ai.github.io/aicodebot.github.io/posts
+
 
 # Build settings
 # theme: minima
