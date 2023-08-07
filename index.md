@@ -18,7 +18,7 @@ _It's always free for public repos_
 * **AI-Powered Pair Programmer**: Collaborate with a helpful AI sidekick to achieve an enhanced coding experience.
 * **Instant Commit Messages**: Curate commit messages that narrate your code’s story like never before.
 * **Innovative Brainstorming**: Harness the power of AI to brainstorm and develop groundbreaking features.
-* **Speedy Code Reviews<** Get instantaneous feedback to elevate your code’s quality.
+* **Speedy Code Review**: Get instantaneous feedback to elevate your code’s quality.
 * **Effortless Debugging**: Discover and eliminate bugs at lightning speed.
 
 
