@@ -17,6 +17,11 @@
 # you will see them accessed via {{ site.title }}, {{ site.email }}, and so on.
 # You can create any custom variable you would like, and they will be accessible
 # in the templates via {{ site.myvariable }}.
+#
+# Buttons
+# Add these back when content is ready
+# examples: https://novara-ai.github.io/aicodebot.github.io/examples
+# blog: https://novara-ai.github.io/aicodebot.github.io/posts
 
 title: AICodeBot
 email: your-email@example.com
@@ -31,8 +36,6 @@ show_nav_buttons: true
 github:
   repository_url: https://github.com/gorillamania/AICodeBot/
   docs: https://github.com/gorillamania/AICodeBot/tree/main/docs
-  # examples: https://novara-ai.github.io/aicodebot.github.io/examples
-  # blog: https://novara-ai.github.io/aicodebot.github.io/posts
 
 
 # Build settings
