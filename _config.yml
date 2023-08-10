@@ -31,8 +31,8 @@ show_nav_buttons: true
 github:
   repository_url: https://github.com/gorillamania/AICodeBot/
   docs: https://github.com/gorillamania/AICodeBot/tree/main/docs
-  examples: https://novara-ai.github.io/aicodebot.github.io/examples
-  blog: https://novara-ai.github.io/aicodebot.github.io/posts
+  # examples: https://novara-ai.github.io/aicodebot.github.io/examples
+  # blog: https://novara-ai.github.io/aicodebot.github.io/posts
 
 
 # Build settings
